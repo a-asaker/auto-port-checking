@@ -7,6 +7,9 @@
           
           https://github.com/a-asaker/port-checker
 
+  By : a-asaker.
+          
+
 # How T Use : 
       
       ~ Usage : ./port_check.sh [ host ] [ Port1 ] [ Port2 ]
